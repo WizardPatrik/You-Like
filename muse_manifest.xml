@@ -1,0 +1,30 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="You-Like.com" resolutions="1x" timestamp="1516210857741">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="4149858971" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u87.php" crc="3960648223" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="you-like.com-favicon.ico" crc="200294268" ref="index"/>
+    <file name="1.jpg" crc="4242110377" ref="index"/>
+    <file name="160066x66.png" crc="4030726859" seo="true" ref="index"/>
+    <file name="u99-17.png" crc="4282467365" ref="index"/>
+    <file name="u99-17-r.png" crc="4035528270" ref="index"/>
+    <file name="u99-17-m.png" crc="438330319" ref="index"/>
+    <file name="u99-17-fs.png" crc="24570155" ref="index"/>
+    <file name="ico3.png" crc="469924999" seo="true" ref="index"/>
+    <file name="ico1.png" crc="430780438" seo="true" ref="index"/>
+    <file name="images (1).jpg" crc="174935573" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4275859184" seo="true" mt="1516190502022" redirect="true"/>
+</manifest>
